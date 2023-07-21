@@ -1,4 +1,8 @@
-# tutorial
+# Tutorial do Refine
+
+Acesse o App: https://refine-tutorial-lrv.netlify.app/
+
+Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/255560a3-e14e-4aed-815e-1591645b9b98/deploy-status)](https://app.netlify.com/sites/refine-tutorial-lrv/deploys)
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
